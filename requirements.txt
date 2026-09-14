@@ -1,4 +1,4 @@
 telethon
 pyrogram
 python-telegram-bot
-
+yt-dlp
