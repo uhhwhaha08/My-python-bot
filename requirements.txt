@@ -1,5 +1,9 @@
+python-telegram-bot
+aiogram
 telethon
 pyrogram
-python-telegram-bot
+requests
 yt-dlp
 gTTS
+anyio
+
